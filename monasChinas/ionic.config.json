@@ -1,0 +1,7 @@
+{
+  "name": "monasChinas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
